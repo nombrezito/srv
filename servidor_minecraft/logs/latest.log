@@ -1,0 +1,263 @@
+[01:04:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:04:29] [ServerMain/INFO]: Loaded 1470 recipes
+[01:04:29] [ServerMain/INFO]: Loaded 1584 advancements
+[01:04:29] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[01:04:29] [Server thread/INFO]: Loading properties
+[01:04:29] [Server thread/INFO]: Default game type: SURVIVAL
+[01:04:29] [Server thread/INFO]: Generating keypair
+[01:04:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:04:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:04:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:04:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:04:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:04:29] [Server thread/INFO]: Preparing level "world"
+[01:04:30] [Server thread/INFO]: Loading 0 persistent chunks...
+[01:04:30] [Server thread/INFO]: Preparing spawn area: 100%
+[01:04:30] [Server thread/INFO]: Time elapsed: 14 ms
+[01:04:30] [Server thread/INFO]: Done (0.375s)! For help, type "help"
+[01:04:37] [Server thread/INFO]: ItsMessiX[/127.54.199.65:34557] logged in with entity id 88 at (0.8646979046641587, 72.0, 19.482332898228016)
+[01:04:37] [Server thread/INFO]: ItsMessiX joined the game
+[01:05:29] [Server thread/INFO]: Nawu___[/127.2.152.199:33737] logged in with entity id 602 at (-38.5, 81.0, -0.5)
+[01:05:29] [Server thread/INFO]: Nawu___ joined the game
+[01:05:34] [Server thread/INFO]: [Not Secure] <ItsMessiX> XDD
+[01:05:52] [Server thread/INFO]: [Not Secure] <ItsMessiX> ala mierda
+[01:05:59] [Server thread/INFO]: [Not Secure] <ItsMessiX> vas un toke lag
+[01:06:34] [Server thread/INFO]: [Not Secure] <ItsMessiX> tenemos jungla
+[01:06:50] [Server thread/INFO]: ItsMessiX has made the advancement [Stone Age]
+[01:07:00] [Server thread/INFO]: [Not Secure] <ItsMessiX> mute creo
+[01:07:08] [Server thread/INFO]: ItsMessiX has made the advancement [Getting an Upgrade]
+[01:07:19] [Server thread/INFO]: [Not Secure] <ItsMessiX> listo
+[01:07:54] [Server thread/INFO]: [Not Secure] <ItsMessiX> sisi
+[01:08:08] [Server thread/INFO]: [Not Secure] <ItsMessiX> ya descubri una granja de hilo
+[01:09:54] [Server thread/INFO]: Nawu___ has made the advancement [Sweet Dreams]
+[01:09:55] [Server thread/INFO]: ItsMessiX has made the advancement [Sweet Dreams]
+[01:10:10] [Server thread/INFO]: Nawu___ has made the advancement [Stone Age]
+[01:10:17] [Server thread/INFO]: [Not Secure] <ItsMessiX> argentina internet prime
+[01:10:22] [Server thread/INFO]: Nawu___ has made the advancement [Getting an Upgrade]
+[01:14:48] [Server thread/INFO]: ItsMessiX was slain by Iron Golem
+[01:14:54] [Server thread/INFO]: [Not Secure] <ItsMessiX> me cague todo
+[01:15:39] [Server thread/INFO]: ItsMessiX has made the advancement [Acquire Hardware]
+[01:16:15] [Server thread/WARN]: Nawu___ moved too quickly! -9.682988547349424,1.2286092609382138,2.8969970955158857
+[01:16:50] [Server thread/INFO]: [Not Secure] <ItsMessiX> dale a la campana
+[01:17:16] [Server thread/INFO]: [Not Secure] <ItsMessiX> alaa
+[01:17:22] [Server thread/INFO]: [Not Secure] <ItsMessiX> XDD
+[01:18:55] [Server thread/INFO]: [Not Secure] <ItsMessiX> mate al verfe
+[01:19:08] [Server thread/INFO]: Villager dcx['Nitwit'/15, l='ServerLevel[world]', x=-23.70, y=72.05, z=12.32] died, message: 'Nitwit drowned'
+[01:19:55] [Server thread/INFO]: [Not Secure] <ItsMessiX> vamo por hierro?
+[01:20:03] [Server thread/INFO]: [Not Secure] <ItsMessiX> gracia
+[01:21:34] [Server thread/INFO]: [Not Secure] <ItsMessiX> granja de hierro
+[01:21:35] [Server thread/INFO]: [Not Secure] <ItsMessiX> XD
+[01:21:44] [Server thread/INFO]: [Not Secure] <ItsMessiX> mira mira
+[01:21:46] [Server thread/INFO]: [Not Secure] <ItsMessiX> veni
+[01:22:09] [Server thread/INFO]: Nawu___ has made the advancement [Acquire Hardware]
+[01:22:15] [Server thread/INFO]: [Not Secure] <ItsMessiX> para vos
+[01:22:18] [Server thread/INFO]: [Not Secure] <ItsMessiX> hacete tus cosas
+[01:22:22] [Server thread/INFO]: [Not Secure] <ItsMessiX> vamos a la mina
+[01:22:43] [Server thread/INFO]: [Not Secure] <ItsMessiX> dale dale
+[01:24:21] [Server thread/INFO]: Villager dcx['Nitwit'/84, l='ServerLevel[world]', x=-40.71, y=64.00, z=-16.50] died, message: 'Nitwit was slain by Nawu___'
+[01:24:37] [Server thread/INFO]: Nawu___ was shot by Skeleton
+[01:24:39] [Server thread/INFO]: [Not Secure] <ItsMessiX> XDD
+[01:24:45] [Server thread/INFO]: [Not Secure] <ItsMessiX> por donde te mandaste
+[01:25:05] [Server thread/INFO]: [Not Secure] <ItsMessiX> uu
+[01:25:13] [Server thread/INFO]: [Not Secure] <ItsMessiX> esta llenisimo de bichos
+[01:25:18] [Server thread/INFO]: ItsMessiX has made the advancement [Not Today, Thank You]
+[01:25:19] [Server thread/INFO]: ItsMessiX has made the advancement [Monster Hunter]
+[01:25:30] [Server thread/INFO]: Nawu___ has made the advancement [Monster Hunter]
+[01:27:15] [Server thread/INFO]: Created new objective [vida]
+[01:27:35] [Server thread/INFO]: Nawu___ has made the advancement [Not Today, Thank You]
+[01:27:39] [Server thread/INFO]: Set display slot list to show objective vida
+[01:27:45] [Server thread/INFO]: [Not Secure] <ItsMessiX> mira el tab
+[01:27:48] [Server thread/INFO]: Nawu___ was slain by Zombie
+[01:28:17] [Server thread/WARN]: Nawu___ moved too quickly! 5.67289632126559,-5.926085345835801,5.770633630007808
+[01:28:21] [Server thread/INFO]: Nawu___ was blown up by Creeper
+[01:28:23] [Server thread/INFO]: [Not Secure] <ItsMessiX> XD
+[01:30:00] [Server thread/INFO]: Nawu___ fell from a high place
+[01:31:06] [Server thread/INFO]: [Not Secure] <ItsMessiX> no se te escucha casi nada
+[01:31:46] [Server thread/INFO]: [Not Secure] <ItsMessiX> que de 100 rosas y puede jugar
+[01:32:46] [Server thread/INFO]: [Not Secure] <ItsMessiX> nono
+[01:32:49] [Server thread/INFO]: [Not Secure] <ItsMessiX> me di cuenta recien
+[01:32:50] [Server thread/INFO]: [Not Secure] <ItsMessiX> XD
+[01:33:25] [Server thread/INFO]: [Not Secure] <ItsMessiX> juego a 250 fps
+[01:34:04] [Server thread/INFO]: Nawu___ was shot by Skeleton
+[01:34:13] [Server thread/INFO]: [Not Secure] <ItsMessiX> yo jugaba a 10
+[01:34:22] [Server thread/INFO]: [Not Secure] <ItsMessiX> 2023 a 2024
+[01:35:56] [Server thread/INFO]: ItsMessiX lost connection: Disconnected
+[01:35:56] [Server thread/INFO]: ItsMessiX left the game
+[01:36:31] [Server thread/INFO]: ItsMessiX[/127.54.199.65:53689] logged in with entity id 7965 at (6.699999988079071, 35.0, -22.69999998807907)
+[01:36:31] [Server thread/INFO]: ItsMessiX joined the game
+[01:39:47] [Server thread/INFO]: ItsMessiX has made the advancement [Suit Up]
+[01:40:16] [Server thread/INFO]: ItsMessiX has made the advancement [Isn't It Iron Pick]
+[01:42:28] [Server thread/INFO]: [Not Secure] <ItsMessiX> toma
+[01:42:31] [Server thread/INFO]: Nawu___ has made the advancement [Suit Up]
+[01:43:04] [Server thread/INFO]: Nawu___ has made the advancement [Isn't It Iron Pick]
+[01:44:07] [Server thread/INFO]: [Not Secure] <Nawu___> vos que pesas messi
+[01:44:18] [Server thread/INFO]: [Not Secure] <Nawu___> dejamo entrar al taty?
+[01:46:07] [Server thread/INFO]: [Not Secure] <ItsMessiX> pasasela
+[01:46:59] [Server thread/INFO]: [Not Secure] <ItsMessiX> q no rompas las cosas ni nada
+[01:47:01] [Server thread/INFO]: [Not Secure] <ItsMessiX> no robes
+[01:47:21] [Server thread/INFO]: [Not Secure] <ItsMessiX> dormit
+[01:47:38] [Server thread/INFO]: [Not Secure] <ItsMessiX> re buena onda parece taty
+[01:48:14] [Server thread/INFO]: [Not Secure] <ItsMessiX> todo mal
+[01:48:36] [Server thread/INFO]: ItsMessiX has made the advancement [What a Deal!]
+[01:48:53] [Server thread/INFO]: Nawu___ has made the advancement [What a Deal!]
+[01:49:02] [Server thread/INFO]: [Not Secure] <ItsMessiX> bruh
+[01:49:13] [Server thread/INFO]: [Not Secure] <ItsMessiX> no creo q sea tan bueno esto
+[01:49:19] [Server thread/INFO]: [Not Secure] <ItsMessiX> mira los cofres
+[01:49:20] [Server thread/INFO]: [Not Secure] <ItsMessiX> XD
+[01:49:32] [Server thread/INFO]: [Not Secure] <ItsMessiX> XDD
+[01:50:35] [Server thread/INFO]: [Not Secure] <ItsMessiX> se lo paso yo?
+[01:50:47] [Server thread/INFO]: [Not Secure] <ItsMessiX> dale dale
+[01:50:51] [Server thread/INFO]: ItsMessiX lost connection: Disconnected
+[01:50:51] [Server thread/INFO]: ItsMessiX left the game
+[01:51:51] [Server thread/INFO]: ItsMessiX[/127.54.199.65:33411] logged in with entity id 11051 at (-20.50681919966557, 72.0, 13.134273802131071)
+[01:51:51] [Server thread/INFO]: ItsMessiX joined the game
+[01:54:49] [Server thread/INFO]: [Not Secure] <ItsMessiX> voy a la mina
+[01:58:56] [Server thread/INFO]: [Not Secure] <ItsMessiX> agarro lapiz?
+[01:59:13] [Server thread/INFO]: [Not Secure] <ItsMessiX> no
+[01:59:14] [Server thread/INFO]: Villager dcx['Villager'/46, l='ServerLevel[world]', x=46.23, y=61.20, z=5.60] died, message: 'Villager was slain by Drowned'
+[01:59:14] [Server thread/INFO]: ItsMessiX lost connection: Disconnected
+[01:59:14] [Server thread/INFO]: ItsMessiX left the game
+[01:59:27] [Server thread/INFO]: ItsMessiX[/127.54.199.65:46719] logged in with entity id 12962 at (-6.0096599956528856, -12.0, -9.143058205996455)
+[01:59:27] [Server thread/INFO]: ItsMessiX joined the game
+[01:59:47] [Server thread/INFO]: [Not Secure] <ItsMessiX> los arboles de jungla sirven
+[01:59:50] [Server thread/INFO]: [Not Secure] <ItsMessiX> y son grandes
+[02:00:16] [Server thread/INFO]: [Not Secure] <ItsMessiX> dale nain
+[02:00:22] [Server thread/INFO]: [Not Secure] <ItsMessiX> encara messi
+[02:00:54] [Server thread/INFO]: [Not Secure] <ItsMessiX> un re viento se levanto aca
+[02:03:57] [Server thread/INFO]: [Not Secure] <ItsMessiX> capa -29 se me esta por romper el pico
+[02:04:01] [Server thread/INFO]: [Not Secure] <ItsMessiX> pero me traje madera
+[02:04:44] [Server thread/INFO]: [Not Secure] <ItsMessiX> para mi el taty era de bedrock
+[02:06:49] [Server thread/INFO]: ItsMessiX has made the advancement [Diamonds!]
+[02:07:53] [Server thread/INFO]: [Not Secure] <ItsMessiX> eu bien 4 eran
+[02:08:11] [Server thread/INFO]: [Not Secure] <ItsMessiX> anooo
+[02:08:15] [Server thread/INFO]: [Not Secure] <ItsMessiX> una ravin
+[02:09:06] [Server thread/INFO]: ItsMessiX has made the advancement [Hot Stuff]
+[02:09:36] [Server thread/INFO]: [Not Secure] <ItsMessiX> mineshaft
+[02:09:40] [Server thread/INFO]: [Not Secure] <ItsMessiX> mina gigante
+[02:09:48] [Server thread/INFO]: [Not Secure] <ItsMessiX> 61 -22 -39
+[02:11:41] [Server thread/INFO]: [Not Secure] <ItsMessiX> KASJDKASJd el taty me pregunto la version y me bloquio
+[02:12:19] [Server thread/INFO]: [Not Secure] <ItsMessiX> 13 diamantes ya llevo
+[02:12:32] [Server thread/INFO]: [Not Secure] <ItsMessiX> 15 tablones nomas
+[02:12:45] [Server thread/INFO]: [Not Secure] <ItsMessiX> a sisi
+[02:13:02] [Server thread/INFO]: Nawu___ was blown up by Creeper
+[02:13:05] [Server thread/INFO]: [Not Secure] <ItsMessiX> AKSJDAKSJDK
+[02:13:18] [Server thread/INFO]: [Not Secure] <ItsMessiX> yo pase todo corriendo
+[02:13:38] [Server thread/INFO]: [Not Secure] <ItsMessiX> dormis?
+[02:13:49] [Server thread/INFO]: ItsMessiX lost connection: Disconnected
+[02:13:49] [Server thread/INFO]: ItsMessiX left the game
+[02:13:59] [Server thread/INFO]: ItsMessiX[/127.54.199.65:41545] logged in with entity id 19509 at (-33.401395909431415, -17.0, -128.31850525620732)
+[02:13:59] [Server thread/INFO]: ItsMessiX joined the game
+[02:14:33] [Server thread/INFO]: Nawu___ fell from a high place
+[02:15:18] [Server thread/INFO]: Nawu___ was speared by Zombie
+[02:15:32] [Server thread/INFO]: [Not Secure] <ItsMessiX> tenes q ir con full armor
+[02:15:35] [Server thread/INFO]: [Not Secure] <ItsMessiX> si no te matan
+[02:16:15] [Server thread/INFO]: Nawu___ was shot by Skeleton
+[02:16:30] [Server thread/INFO]: [Not Secure] <ItsMessiX> fue no vayas mas
+[02:18:34] [Server thread/INFO]: [Not Secure] <ItsMessiX> eu estuve por reddit buscando granja de hilo
+[02:18:36] [Server thread/INFO]: [Not Secure] <ItsMessiX> y encontre
+[02:19:08] [Server thread/INFO]: [Not Secure] <ItsMessiX> consigo los materiales y la hago
+[02:20:05] [Server thread/INFO]: [Not Secure] <ItsMessiX> y lo que vi maso
+[02:21:38] [Server thread/INFO]: [Not Secure] <ItsMessiX> hay mucha gente que dice q no sirve
+[02:21:44] [Server thread/INFO]: [Not Secure] <ItsMessiX> pero elijo creer
+[02:31:53] [Server thread/INFO]: [Not Secure] <ItsMessiX> sisi
+[02:32:05] [Server thread/INFO]: [Not Secure] <ItsMessiX> es el server de lionel messi
+[02:32:08] [Server thread/INFO]: [Not Secure] <ItsMessiX> ndeah
+[02:34:05] [Server thread/INFO]: Nawu___ has made the advancement [Cover Me with Diamonds]
+[02:34:53] [Server thread/INFO]: [Not Secure] <ItsMessiX> no hay ni uno de hilo
+[02:36:07] [Server thread/INFO]: [Not Secure] <ItsMessiX> el video era para el este
+[02:38:13] [Server thread/INFO]: [Not Secure] <ItsMessiX> zzz
+[02:39:27] [Server thread/INFO]: [Not Secure] <ItsMessiX> lpm
+[02:39:57] [Server thread/INFO]: [Not Secure] <ItsMessiX> no si
+[02:39:59] [Server thread/INFO]: [Not Secure] <ItsMessiX> no sirve
+[02:40:44] [Server thread/INFO]: [Not Secure] <ItsMessiX> bueno f
+[02:43:48] [Server thread/INFO]: [Not Secure] <ItsMessiX> estas mute bro
+[02:44:15] [Server thread/INFO]: [Not Secure] <ItsMessiX> a bueno
+[02:44:49] [Server thread/INFO]: [Not Secure] <ItsMessiX> aa
+[02:44:53] [Server thread/INFO]: [Not Secure] <ItsMessiX> bueno
+[02:47:36] [Server thread/INFO]: [Not Secure] <ItsMessiX> salimo e caravana
+[02:47:41] [Server thread/INFO]: [Not Secure] <ItsMessiX> fin de semana
+[02:47:46] [Server thread/INFO]: [Not Secure] <ItsMessiX> con to lo pibee
+[02:48:01] [Server thread/INFO]: [Not Secure] <ItsMessiX> donde hago la granja d hierro
+[02:48:10] [Server thread/INFO]: [Not Secure] <ItsMessiX> no t estoy escuchando
+[02:48:20] [Server thread/INFO]: [Not Secure] <ItsMessiX> estoy hablando con el otro
+[02:48:40] [Server thread/INFO]: ItsMessiX lost connection: Disconnected
+[02:48:40] [Server thread/INFO]: ItsMessiX left the game
+[02:49:28] [Server thread/INFO]: ItsMessiX[/127.54.199.65:45525] logged in with entity id 27013 at (-7.733332943328817, 71.5875, -7.515146670059554)
+[02:49:28] [Server thread/INFO]: ItsMessiX joined the game
+[02:49:42] [Server thread/INFO]: [Not Secure] <ItsMessiX> q
+[02:49:52] [Server thread/INFO]: [Not Secure] <ItsMessiX> a bueno
+[02:50:06] [Server thread/INFO]: [Not Secure] <ItsMessiX> chau
+[02:50:10] [Server thread/INFO]: Nawu___ lost connection: Disconnected
+[02:50:10] [Server thread/INFO]: Nawu___ left the game
+[02:50:52] [Server thread/INFO]: x_Scorp1oN_x[/127.192.92.60:50645] logged in with entity id 27288 at (-23.5, 73.0, -7.5)
+[02:50:52] [Server thread/INFO]: x_Scorp1oN_x joined the game
+[02:50:54] [Server thread/INFO]: [Not Secure] <ItsMessiX> q onda
+[02:51:05] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> hola
+[02:51:10] [Server thread/INFO]: [Not Secure] <ItsMessiX> el otro se salio porq se va a dormir
+[02:51:16] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> buenoo
+[02:51:31] [Server thread/INFO]: [Not Secure] <ItsMessiX> toma
+[02:51:32] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> puedo hacer la granja de hierro?
+[02:51:35] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [Suit Up]
+[02:51:38] [Server thread/INFO]: [Not Secure] <ItsMessiX> sisi
+[02:51:43] [Server thread/INFO]: [Not Secure] <ItsMessiX> la simple
+[02:51:50] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> buenop
+[02:52:15] [Server thread/INFO]: [Not Secure] <ItsMessiX> toma
+[02:52:44] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [Acquire Hardware]
+[02:52:47] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [Isn't It Iron Pick]
+[02:53:55] [Server thread/INFO]: x_Scorp1oN_x was slain by Iron Golem
+[02:53:58] [Server thread/INFO]: [Not Secure] <ItsMessiX> u
+[02:54:20] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [What a Deal!]
+[03:01:22] [Server thread/INFO]: [Not Secure] <ItsMessiX> dormite
+[03:01:36] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [Sweet Dreams]
+[03:02:19] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [Cover Me with Diamonds]
+[03:03:25] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> tenems armero?
+[03:03:33] [Server thread/INFO]: [Not Secure] <ItsMessiX> no
+[03:03:44] [Server thread/INFO]: [Not Secure] <ItsMessiX> solo flecheros granjero y el de las armor
+[03:04:28] [Server thread/WARN]: x_Scorp1oN_x moved too quickly! -9.759252407546178,-0.1647732818260721,2.6409436695047503
+[03:06:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-158, y=90, z=101} is{x=-158, y=91, z=102}
+[03:07:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-153, y=75, z=123} is{x=-152, y=77, z=123}
+[03:09:31] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> haces la granja de aldeanos=
+[03:10:07] [Server thread/INFO]: [Not Secure] <ItsMessiX> la granja d aldeanos es con las esmeraldas compras pan y le das a los demas
+[03:10:10] [Server thread/INFO]: [Not Secure] <ItsMessiX> ees mas facil
+[03:10:18] [Server thread/INFO]: [Not Secure] <ItsMessiX> y dsp podes comprar zanahorias doradas
+[03:10:23] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> yo me vi uno
+[03:11:30] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> era al reves pero funciona igual creo
+[03:11:35] [Server thread/INFO]: [Not Secure] <ItsMessiX> sisi
+[03:13:11] [Server thread/INFO]: [Not Secure] <ItsMessiX> zzz
+[03:14:44] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [Getting an Upgrade]
+[03:15:43] [Server thread/INFO]: [Not Secure] <ItsMessiX> me matas a este iron golem
+[03:16:29] [Server thread/INFO]: [Not Secure] <ItsMessiX> falta el zombi
+[03:16:34] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> euu hagamos la granja de aldeanos
+[03:16:41] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> hago si queres
+[03:16:52] [Server thread/INFO]: [Not Secure] <ItsMessiX> nanna
+[03:16:54] [Server thread/INFO]: [Not Secure] <ItsMessiX> no hace falta
+[03:17:19] [Server thread/INFO]: [Not Secure] <ItsMessiX> a las 12:30 se apaga el server
+[03:17:42] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> y si para mas granja de golems o hace que cojan tus aldeanos asi hacemos mas modulos para mas hieroo
+[03:18:32] [Server thread/INFO]: ItsMessiX was slain by Iron Golem
+[03:18:43] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [Stone Age]
+[03:19:11] [Server thread/INFO]: [Not Secure] <ItsMessiX> hay q encerrar a uno asi no spawnean afuera
+[03:19:24] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> xd
+[03:19:33] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> yo nunca hice eso
+[03:19:42] [Server thread/INFO]: [Not Secure] <ItsMessiX> es por la zona de spawneo de golems
+[03:20:55] [Server thread/INFO]: [Not Secure] <ItsMessiX> listooo
+[03:21:08] [Server thread/INFO]: [Not Secure] <ItsMessiX> ahora falta conseguir el zombi
+[03:22:42] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> me falta uno mas
+[03:22:46] [Server thread/INFO]: [Not Secure] <ItsMessiX> de?
+[03:22:51] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> listo
+[03:22:56] [Server thread/INFO]: [Not Secure] <ItsMessiX> piola
+[03:23:07] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> quiero aplanar
+[03:23:13] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> uff
+[03:24:33] [Server thread/INFO]: [Not Secure] <ItsMessiX> ay mi gatito miau miau
+[03:24:55] [Server thread/INFO]: [Not Secure] <ItsMessiX> un esqueleto en una araña
+[03:24:57] [Server thread/INFO]: [Not Secure] <ItsMessiX> wtf
+[03:25:06] [Server thread/INFO]: [Not Secure] <ItsMessiX> es rarisimo eso
+[03:26:15] [Server thread/INFO]: [Not Secure] <ItsMessiX> no llega ni un zombiii
+[03:26:32] [Server thread/INFO]: x_Scorp1oN_x has made the advancement [Monster Hunter]
+[03:26:34] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> aca
+[03:26:52] [Server thread/INFO]: [Not Secure] <ItsMessiX> aca
+[03:27:45] [Server thread/INFO]: [Not Secure] <ItsMessiX> zz
+[03:27:50] [Server thread/INFO]: [Not Secure] <ItsMessiX> ZZZZ
+[03:28:07] [Server thread/INFO]: [Not Secure] <ItsMessiX> amigo
+[03:28:12] [Server thread/INFO]: [Not Secure] <ItsMessiX> pueden subir los bichos
+[03:29:02] [Server thread/INFO]: [Not Secure] <x_Scorp1oN_x> ahy
+[03:29:09] [Server thread/INFO]: [Not Secure] <ItsMessiX> sisis
